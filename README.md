@@ -30,12 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
 </div>
   
-  
-  
 ### Hi there 👋 I'm Jshulgach
 - 👀 I’m interested in Robots, Machine Learning, Neural Engineering, Electroceutical Therapies and sensory feedback
 - 🌱 I’m currently learning Mechanical Engineering at Carnegie Mellon University
 - 📫 How to reach me: jshulgac@andrew.cmu.edu
+
+Check out my [Google Scholar Homepage](https://scholar.google.com/citations?user=l8-z7Z4AAAAJ&hl=en&oi=ao)
 
 <!---
 Jshulgach/Jshulgach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
