@@ -40,4 +40,9 @@ Check out my [Google Scholar Homepage](https://scholar.google.com/citations?user
 <!---
 Jshulgach/Jshulgach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+
+I am a PhD student in Mechanical Engineering advised by Douglas Weber in the Neuromechatronics Lab. My research focuses on assistive manipulation through closed-loop force feedback and intent recognition from biomechanical features; the end goal is to decrease the cognitive load of the robot operator for manipulation tasks. My CMU BiomedE master's theses was on selective axonal activation within the vagus nerve, and my undergrad was at UMBC with a focus in mechatronics.
+
+
 --->
